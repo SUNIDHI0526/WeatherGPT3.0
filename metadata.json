@@ -1,0 +1,7 @@
+{
+  "name": "WeatherGPT - Nagpur Weather & Disaster AI",
+  "description": "Smart India Hackathon 2026: Conversational Weather & Climate Intelligence for Nagpur District with real-time IMD-aligned forecasts, local risk indexing, alerts, route weather, and multilingual voice assistant.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
